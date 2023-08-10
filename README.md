@@ -17,7 +17,7 @@ Grocery Hub is a basic grocery app built using Vanilla JavaScript that allows yo
 
 ## Demo
 
-Check out the live demo: [Grocery Hub App](grocery-hub-crud.netlify.app)
+Check out the live demo: [Grocery Hub App](https://grocery-hub-crud.netlify.app)
 
 ## Technologies Used
 
